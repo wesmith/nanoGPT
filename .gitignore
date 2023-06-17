@@ -3,4 +3,7 @@
 __pycache__/
 *.pyc
 *.txt
+# ignore large training-data files
+*.pt
+
 
